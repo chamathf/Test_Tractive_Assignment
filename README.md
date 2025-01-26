@@ -68,7 +68,7 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
    - npx playwright test --project=firefox -g "Sign Up To Tractive Account"
 
    - npx playwright test --project=firefox -g "Sign In to Tractive Account"
-   - 
+     
    ### OR
 
    Click Playbutton in Test File 
@@ -94,9 +94,9 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
 
 ## NOTE
    These test case run on chrome and firefox and Passed Scussfully without any issues
-   1.Chrome Version -   132.0.6834.110
-   2.Firefox Verison - 134.0.2
-   3.Node Verison - v18.18.2
-   4.playwright Verison - 1.50.0
-   5.Tested Date - 1/26/2025
+   - Chrome Version -   132.0.6834.110
+   - Firefox Verison - 134.0.2
+   - Node Verison - v18.18.2
+   - playwright Verison - 1.50.0
+   - Tested Date - 1/26/2025
    
