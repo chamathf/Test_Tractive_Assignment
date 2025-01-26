@@ -29,7 +29,7 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
    - `TestData.json` 
 
 4. **Utility Layer**
-   This Layer contains with 3 parts use for set up and manage cookies 
+   This Layer contains with 3 parts use for set up and manage cookies. 
 
    1.`utility.Setup.ts`
    
