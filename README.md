@@ -33,9 +33,9 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
 
    1.`utility.Setup.ts`
    
-   2. `setup.cookies.ts`
+   2.`setup.cookies.ts`
   
-   3. `storageState.json`
+   3.`storageState.json`
 
 --- 
 
