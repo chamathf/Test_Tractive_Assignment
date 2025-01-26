@@ -8,7 +8,7 @@ There are two test cases in this project
 
 ## Project Structure
 
-The project follows the **Page Object Model (POM)** design pattern and is organized into 3 distinct layers:
+The project follows the **Page Object Model (POM)** design pattern and is organized into 4 distinct layers:
 
 1. **Page Object Layer**  
    Contains all the page objects representing various web pages.  
@@ -28,7 +28,16 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
    File:  data/TestData.json
    - `TestData.json` 
 
----
+4. **Utility Layer**
+   This Layer contains with 3 parts use for set up and manage cookies 
+
+   1.`utility.Setup.ts`
+   
+   2. `setup.cookies.ts`
+  
+   3. `storageState.json`
+
+--- 
 
 ## Preconditions Before Running the Test Case
 
@@ -64,7 +73,8 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
 
    Click Playbutton in Test File 
 
-   ![image](https://github.com/user-attachments/assets/7b988166-de73-41f5-a0e4-02112f6ca815)
+   ![image](https://github.com/user-attachments/assets/53e0d8f8-f16a-4192-97d9-bf66ebf0dbfd)
+)
 
 ### 2. Headed Mode
    To run the test in headed mode (with the browser UI visible), use this command:
@@ -84,6 +94,9 @@ The project follows the **Page Object Model (POM)** design pattern and is organi
 
 ## NOTE
    These test case run on chrome and firefox and Passed Scussfully without any issues
-   Chrome Version=  131.0.6778.86
-   Firefox Verison = 133.0
+   Chrome Version -   132.0.6834.110
+   Firefox Verison - 134.0.2
+   Node Verison - v18.18.2
+   playwright Verison - 1.50.0
+   Tested Date - 1/26/2025
    
