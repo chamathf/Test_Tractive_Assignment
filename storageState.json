@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "interview",
+      "value": "7lBPV9iik6r9MNE5dKw9nzF9CstdlEJl",
+      "domain": ".tractive.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
